@@ -1,5 +1,5 @@
-# Introduccion
-## Gestion de Turnos - Diseño del Sistema
+
+# Gestion de Turnos - Diseño del Sistema
 
 Dominguez Leandro
 
