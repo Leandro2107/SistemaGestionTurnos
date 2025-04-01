@@ -17,17 +17,17 @@ Habilidad de un objeto para adoptar múltiples formas, permitiendo el uso de una
 
 ## Requisitos Funcionales
 
-  Autenticación de usuarios
+ * Autenticación de usuarios:
 El sistema debe permitir que los usuarios se registren, inicien sesión y cierren sesión mediante credenciales (usuario y contraseña).
 
-Gestión de usuarios
+* Gestión de usuarios:
 Los administradores deben poder crear, modificar y eliminar cuentas de usuario, asignando roles y permisos según el perfil.
 
-Registro y almacenamiento de datos
+* Registro y almacenamiento de datos:
 El sistema debe permitir a los usuarios ingresar información y almacenarla en una base de datos para su posterior consulta.
 
-Generación de reportes
+* Generación de reportes:
 Los usuarios con permisos adecuados deben poder generar reportes detallados sobre la información almacenada en el sistema.
 
-Notificaciones y alertas
+* Notificaciones y alertas:
 El sistema debe enviar notificaciones por correo electrónico o mensajes dentro de la plataforma cuando ocurran eventos importantes (como cambios en la cuenta o alertas de seguridad).
