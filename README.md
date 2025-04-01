@@ -20,7 +20,7 @@ A lo largo del proyecto, se detallarán los requerimientos, la arquitectura del 
 
   
 # Diagramas y Diseños
-
+![Boceto](Diagrama.jpeg)
 
 
   
