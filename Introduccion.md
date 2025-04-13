@@ -54,10 +54,7 @@ La Programación Orientada a Objetos (POO) es un paradigma de programación basa
 ## Casos de Uso
 
 
-
-
 ## ✅ Caso de Uso 1: Registrar Paciente
-
 **Actor(es) involucrado(s):**  
 Recepcionista
 
@@ -80,7 +77,6 @@ Permite registrar un nuevo paciente en el sistema con su información personal.
 
 
 ## ✅ Caso de Uso 2: Asignar Turno
-
 **Actor(es) involucrado(s):**  
 Recepcionista, Paciente
 
@@ -107,7 +103,6 @@ Permite asignar un turno a un paciente con un médico disponible.
 
 
 ## ✅ Caso de Uso 3: Confirmar Turno
-
 **Actor(es) involucrado(s):**  
 Paciente
 
@@ -131,7 +126,6 @@ Permite que un paciente confirme su asistencia a un turno programado.
 
 
 ## ✅ Caso de Uso 4: Cancelar Turno
-
 **Actor(es) involucrado(s):**  
 Paciente, Médico, Recepcionista
 
@@ -157,7 +151,6 @@ Permite cancelar un turno programado y notificar a las partes involucradas.
 
 
 ## ✅ Caso de Uso 5: Consultar Historial de Turnos
-
 **Actor(es) involucrado(s):**  
 Recepcionista, Médico, Paciente
 
