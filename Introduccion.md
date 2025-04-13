@@ -55,7 +55,7 @@ La Programación Orientada a Objetos (POO) es un paradigma de programación basa
 
 
 ## ✅ Caso de Uso 1: Registrar Paciente
-**Actor(es) involucrado(s):**  
+**Actor(es) involucrado(s):**
 Recepcionista
 
 **Descripción breve:**  
