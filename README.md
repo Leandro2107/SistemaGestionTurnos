@@ -18,9 +18,6 @@ El sistema organizará entidades clave como pacientes, médicos, citas y histori
 
 A lo largo del proyecto, se detallarán los requerimientos, la arquitectura del software y las ventajas del enfoque orientado a objetos en la informática médica.
 
-  
-# Diagramas y Diseños
-![Boceto](Diagrama.jpeg)
 
 
   
