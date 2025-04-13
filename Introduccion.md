@@ -54,7 +54,7 @@ La Programación Orientada a Objetos (POO) es un paradigma de programación basa
 ## Casos de Uso
 
 
----
+
 
 ## ✅ Caso de Uso 1: Registrar Paciente
 
@@ -77,7 +77,7 @@ Permite registrar un nuevo paciente en el sistema con su información personal.
 **Postcondiciones:**
 - El paciente queda registrado en la base de datos y puede ser asignado a un turno.
 
----
+
 
 ## ✅ Caso de Uso 2: Asignar Turno
 
@@ -104,7 +104,7 @@ Permite asignar un turno a un paciente con un médico disponible.
 - El turno queda registrado en el sistema.
 - Se notifican el paciente y el médico.
 
----
+
 
 ## ✅ Caso de Uso 3: Confirmar Turno
 
@@ -128,7 +128,7 @@ Permite que un paciente confirme su asistencia a un turno programado.
 - El turno cambia de estado a "Confirmado".
 - Se notifica al médico.
 
----
+
 
 ## ✅ Caso de Uso 4: Cancelar Turno
 
@@ -154,7 +154,7 @@ Permite cancelar un turno programado y notificar a las partes involucradas.
 - El turno queda registrado como "Cancelado".
 - Se notifica al paciente y al médico.
 
----
+
 
 ## ✅ Caso de Uso 5: Consultar Historial de Turnos
 
@@ -177,7 +177,7 @@ Permite consultar los turnos pasados y futuros de un paciente o un médico.
 **Postcondiciones:**
 - Se muestra el historial de turnos registrados.
 
----
+
 
 
 
