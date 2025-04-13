@@ -7,22 +7,19 @@ La Programación Orientada a Objetos (POO) es un paradigma de programación basa
   Permite ocultar los detalles internos de un objeto y exponer solo lo necesario mediante métodos públicos, mejorando la seguridad y modularidad.
 
   Ejemplo del mundo real:
-  
-  Una cafetera. Como usuario, solo presionás un botón para hacer café. No ves cómo se calienta el agua o cómo se activa la bomba, esos detalles están ocultos.
+    Una cafetera. Como usuario, solo presionás un botón para hacer café. No ves cómo se calienta el agua o cómo se activa la bomba, esos detalles están ocultos.
 
 * **Herencia:**
   Permite que una clase (subclase) herede atributos y métodos de otra clase (superclase), promoviendo la reutilización de código.
 
   Ejemplo del mundo real:
-  
-  Una clase "Vehículo" puede tener subclases como "Auto", "Moto" y "Camión". Todos los vehículos comparten características comunes, pero también tienen sus diferencias.
+    Una clase "Vehículo" puede tener subclases como "Auto", "Moto" y "Camión". Todos los vehículos comparten características comunes, pero también tienen sus diferencias.
 
 * **Polimorfismo:**
   Habilidad de un objeto para adoptar múltiples formas, permitiendo el uso de una misma interfaz para diferentes tipos de datos.
 
   Ejemplo del mundo real:
-  
-  Un botón "Encender" en diferentes dispositivos:
+    Un botón "Encender" en diferentes dispositivos:
 
     -Enciende un televisor.
 
@@ -34,8 +31,7 @@ La Programación Orientada a Objetos (POO) es un paradigma de programación basa
   Proceso de simplificación en el cual se ocultan los detalles irrelevantes y se destacan las características esenciales de un objeto.
   
   Ejemplo del mundo real:
-  
-  En una app de banca móvil, el usuario solo interactúa con las funciones necesarias (consultar saldo, transferir dinero), sin ver cómo se conectan los sistemas o validan las operaciones internamente.
+    En una app de banca móvil, el usuario solo interactúa con las funciones necesarias (consultar saldo, transferir dinero), sin ver cómo se conectan los sistemas o validan las operaciones internamente.
 
 ## Requisitos Iniciales
 
