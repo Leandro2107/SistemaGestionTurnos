@@ -169,6 +169,5 @@ Permite consultar los turnos pasados y futuros de un paciente o un médico.
 ## Boceto inicial del diseño de clases
 ![Boceto](Boceto.jpeg)
 
-## Link
 [Link](https://excalidraw.com/#json=dUz5yoV0IW3Ipgv0sipLR,8PZFx18CwSuiXZV1VbAsBA)
   
