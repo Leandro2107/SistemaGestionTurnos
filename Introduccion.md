@@ -165,5 +165,3 @@ Permite consultar los turnos pasados y futuros de un paciente o un médico.
 
 **Postcondiciones:**
 - Se muestra el historial de turnos registrados.
-
-
