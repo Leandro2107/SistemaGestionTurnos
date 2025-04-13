@@ -17,15 +17,13 @@ Una cafetera. Como usuario, solo presionás un botón para hacer café. No ves c
 Habilidad de un objeto para adoptar múltiples formas, permitiendo el uso de una misma interfaz para diferentes tipos de datos.
 Ejemplo del mundo real:
 Un botón "Encender" en diferentes dispositivos:
-
 -Enciende un televisor.
-
 -Enciende un ventilador.
-
 -Enciende una computadora.
 
 * **Abstracción:**
   Proceso de simplificación en el cual se ocultan los detalles irrelevantes y se destacan las características esenciales de un objeto.
+  
   Ejemplo del mundo real:
   En una app de banca móvil, el usuario solo interactúa con las funciones necesarias (consultar saldo, transferir dinero), sin ver cómo se conectan los sistemas o validan las operaciones internamente.
 
