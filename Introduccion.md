@@ -167,5 +167,5 @@ Permite consultar los turnos pasados y futuros de un paciente o un médico.
 - Se muestra el historial de turnos registrados.
 
 ## Boceto inicial del diseño de clases
-
+![Boceto](Boceto.jpeg)
   
