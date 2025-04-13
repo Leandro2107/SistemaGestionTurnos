@@ -31,7 +31,6 @@ Habilidad de un objeto para adoptar múltiples formas, permitiendo el uso de una
 
 ## Casos de Uso
 
-# Casos de Uso - Sistema de Gestión Clínica
 
 ---
 
