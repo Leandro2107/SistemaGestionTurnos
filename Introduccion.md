@@ -24,11 +24,11 @@ La Programación Orientada a Objetos (POO) es un paradigma de programación basa
   
     Un botón "Encender" en diferentes dispositivos:
 
-    -Enciende un televisor.
+      -Enciende un televisor.
 
-    -Enciende un ventilador.
+      -Enciende un ventilador.
 
-    -Enciende una computadora.
+      -Enciende una computadora.
 
 * **Abstracción:**
   Proceso de simplificación en el cual se ocultan los detalles irrelevantes y se destacan las características esenciales de un objeto.
