@@ -5,7 +5,7 @@ Dominguez Leandro
 
 Diseño orientado a Objetos - Tecnicatura en Programacion en Sistemas
 
-Profesor: Lic. Matias Velazquez
+Profesor: Lic. Matias Velasquez
 
 2025
 
@@ -27,4 +27,4 @@ A lo largo del proyecto, se detallarán los requerimientos, la arquitectura del 
 
 
 
- * [Anexos](anexo.md)
+ * [Anexos.md](anexo.md)
