@@ -26,6 +26,7 @@ A lo largo del proyecto, se detallarán los requerimientos, la arquitectura del 
 
  * [Anexos](anexos.md)
  * [Diagramas UML](diagramasUML.md)
+ * [Herramientas Agile](herramientas_agile.md)
  
 
    
