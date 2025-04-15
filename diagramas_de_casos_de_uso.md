@@ -1,4 +1,4 @@
-## Escenarios de Casos de Uso
+## Diagramas de Casos de Uso
 
 * [Caso de Uso 1 - Registrar paciente](CasosDeUso/RegistrarPaciente.png)
 * [Caso de Uso 2 - Solicitar turno](CasosDeUso/SolicitarTurno.png)
